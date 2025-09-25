@@ -116,5 +116,4 @@ cd LearnPoint-Integrative-Project
 ## 📌 Version  
 
 - **Version 1.0.0** – Initial integrative project release  
-# LearnPoint-Integrative-Project-University
-# LearnPoint-Integrative-Project-University
+
